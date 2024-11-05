@@ -1,2 +1,3 @@
-pip install git+ssh://git@github.com/openai/swarm.git
+pip install git+https://git@github.com/openai/swarm.git
 pip install python-dotenv
+pip install python-weather
